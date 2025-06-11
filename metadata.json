@@ -2,7 +2,7 @@
     "name": "Tayyab Coin",
     "symbol": "TAYYAB",
     "description": "Tayyab is a Pakistani name that means 'good' or 'virtuous'.",
-    "image": "tbc",
+    "image": "https://raw.githubusercontent.com/Microsomes/tayyabcoin/refs/heads/main/tayyabcoinpng.png",
     "attributes": [
      
     ]
